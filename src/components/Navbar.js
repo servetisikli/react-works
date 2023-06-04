@@ -36,7 +36,6 @@ export default function Navbar() {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             S.I. React BLOG Study
           </Typography>
-
           <div>
             <IconButton
               size="large"
